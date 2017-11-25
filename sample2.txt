@@ -2,6 +2,6 @@ import java.io.*;
 class deepu{
 public static void main(String args[])
 {
-System.out.println("First program in mybranch1 in sample2.txt file");
-}
+System.out.println("First program in mybranch1 in sample2.txt file")
+System.out.println("I have merged thid sample2.txt file which is in branch1 to master branch...");
 }
