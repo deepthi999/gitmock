@@ -1,0 +1,7 @@
+import java.io.*;
+class deepu{
+public static void main(String args[])
+{
+System.out.println("First program in mybranch1 in sample2.txt file");
+}
+}
